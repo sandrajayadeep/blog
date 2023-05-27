@@ -1,7 +1,7 @@
 import React from 'react'
-import Nav1 from './Units/Nav1'
-import Home from './Pages/Home'
-import AddBlog from './Pages/AddBlog'
+import Nav1 from './Units/Nav1';
+import Home from './pages/Home';
+import AddBlog from './pages/AddBlog'
 import { Routes, Route } from "react-router-dom"
 
 
